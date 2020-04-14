@@ -4,7 +4,7 @@ This page contains some personal data science related projects and other practic
 
 ## Melboune Housing Market EDA
 
-Exploratory data analysis on Melbourne Housing Market.  
+Exploratory Data Analysis on Melbourne Housing Market.  
 https://github.com/peetujuuti/ds/blob/master/Melboune%20Housing%20Market%20EDA.ipynb  
 
 ## COVID19 cases World and US map
@@ -19,7 +19,7 @@ https://github.com/peetujuuti/ds/blob/master/avocado%20prices%20regression.ipynb
 
 ## Other
 
-Exploratory data analysis on ramen ratings data.  
+Exploratory Data Analysis on ramen ratings data.  
 https://github.com/peetujuuti/ds/blob/master/ramen%20ratings.ipynb  
   
 Testing out Mapbox maps using Plotly.  
