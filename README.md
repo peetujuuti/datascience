@@ -9,7 +9,7 @@ https://github.com/peetujuuti/ds/blob/master/Melboune%20Housing%20Market%20EDA.i
 
 ## COVID19 cases World and US map
 
-Animated map showing total COVID19 cases worldwide and Mapbox map showing total COVID19 cases in the US.  
+Animated map showing total COVID19 cases worldwide and Mapbox map showing total COVID19 cases in US States.  
 https://github.com/peetujuuti/ds/tree/master/covid-19_cases_world_map_animated  
 
 ## Avocado price regression
