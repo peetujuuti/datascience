@@ -19,7 +19,7 @@ https://github.com/peetujuuti/ds/blob/master/avocado%20prices%20regression.ipynb
 
 ## Other
 
-Exploratory Data Analysis on ramen ratings data.  
+Exploratory Data Analysis on Ramen ratings data.  
 https://github.com/peetujuuti/ds/blob/master/ramen%20ratings.ipynb  
   
 Testing out Mapbox maps using Plotly.  
