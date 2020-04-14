@@ -4,7 +4,7 @@ This page contains some personal data science related projects and other practic
 
 ## Melboune Housing Market EDA
 
-Exploratory Data Analysis on Melbourne Housing Market.  
+Exploratory Data Analysis on Melbourne Housing Market data.  
 https://github.com/peetujuuti/ds/blob/master/Melboune%20Housing%20Market%20EDA.ipynb  
 
 ## COVID19 cases World and US map
