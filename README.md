@@ -17,6 +17,11 @@ https://github.com/peetujuuti/ds/tree/master/covid-19_cases_world_map_animated
 Trying to predict avocado prices using linear regression.  
 https://github.com/peetujuuti/ds/blob/master/avocado%20prices%20regression.ipynb  
 
+## Seoul Air Pollution Power BI report
+
+Exploring Seoul Air Pollution data. Uploaded on GitHub since you cant share reports with the free version of Power BI.  
+https://github.com/peetujuuti/ds/tree/master/seoul%20air%20pollution%20%20power%20bi  
+
 ## Other
 
 Exploratory Data Analysis on ramen ratings data.  
