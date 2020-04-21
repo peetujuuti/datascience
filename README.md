@@ -19,7 +19,7 @@ https://github.com/peetujuuti/ds/blob/master/avocado%20prices%20regression.ipynb
 
 ## Seoul Air Pollution Power BI report
 
-Exploring Seoul Air Pollution data. Uploaded on GitHub since you cant share reports with the free version of Power BI.  
+Exploring Seoul Air Pollution data. Uploaded on GitHub since you can't share reports with the free version of Power BI.  
 https://github.com/peetujuuti/ds/tree/master/seoul%20air%20pollution%20%20power%20bi  
 
 ## Other
