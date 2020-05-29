@@ -2,6 +2,15 @@
 
 This page contains some personal data science related projects and other practice material.  
 
+## Intel image classification
+
+Training a convolutional neural network using Keras to classify landscape images.
+
+## Avocado price regression 
+
+Trying to predict avocado prices using linear regression.  
+https://github.com/peetujuuti/ds/blob/master/avocado%20prices%20regression.ipynb  
+
 ## Melboune Housing Market EDA
 
 Exploratory Data Analysis on Melbourne Housing Market data.  
@@ -11,11 +20,6 @@ https://github.com/peetujuuti/ds/blob/master/Melboune%20Housing%20Market%20EDA.i
 
 Animated map showing total COVID19 cases worldwide and Mapbox map showing total COVID19 cases in US States.  
 https://github.com/peetujuuti/ds/tree/master/covid-19_cases_world_map_animated  
-
-## Avocado price regression
-
-Trying to predict avocado prices using linear regression.  
-https://github.com/peetujuuti/ds/blob/master/avocado%20prices%20regression.ipynb  
 
 ## Seoul Air Pollution Power BI report
 
