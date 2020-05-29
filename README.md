@@ -21,12 +21,10 @@ https://github.com/peetujuuti/ds/blob/master/Melboune%20Housing%20Market%20EDA.i
 Animated map showing total COVID19 cases worldwide and Mapbox map showing total COVID19 cases in US States.  
 https://github.com/peetujuuti/ds/tree/master/covid-19_cases_world_map_animated  
 
-## Seoul Air Pollution Power BI report
+## Other
 
 Exploring Seoul Air Pollution data. Uploaded on GitHub since you can't share reports with the free version of Power BI.  
 https://github.com/peetujuuti/ds/tree/master/seoul%20air%20pollution%20%20power%20bi  
-
-## Other
 
 Exploratory Data Analysis on ramen ratings data.  
 https://github.com/peetujuuti/ds/blob/master/ramen%20ratings.ipynb  
