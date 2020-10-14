@@ -10,7 +10,7 @@ https://github.com/peetujuuti/ds/blob/master/intel%20image%20classification.ipyn
 ## Melboune Housing Market EDA
 
 Exploratory Data Analysis on Melbourne Housing Market data.  
-https://github.com/peetujuuti/ds/blob/master/Melboune%20Housing%20Market%20EDA.ipynb  
+https://github.com/peetujuuti/ds/blob/master/melbourne-housing-market-eda/Melboune%20Housing%20Market%20EDA.ipynb  
 
 ## Avocado price regression 
 
