@@ -15,7 +15,7 @@ https://github.com/peetujuuti/ds/blob/master/melbourne-housing-market-eda/Melbou
 ## Avocado price regression 
 
 Trying to predict avocado prices using linear regression.  
-https://github.com/peetujuuti/ds/blob/master/avocado%20prices%20regression.ipynb  
+https://github.com/peetujuuti/ds/blob/master/avocado_price_regression_analysis/avocado%20prices%20regression.ipynb  
 
 ## COVID19 cases World and US map
 
