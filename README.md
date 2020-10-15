@@ -25,7 +25,7 @@ https://github.com/peetujuuti/ds/tree/master/covid-19_cases_world_map_animated
 ## Other
 
 Exploring Seoul Air Pollution data. Uploaded on GitHub because the free version of Power BI doesn't allow sharing reports.  
-https://github.com/peetujuuti/ds/tree/master/seoul%20air%20pollution%20%20power%20bi  
+https://github.com/peetujuuti/ds/tree/master/seoul_air_pollution_power_bi  
 
 Exploring Seattle Airbnb data. Uploaded on GitHub because the free version of Power BI doesn't allow sharing reports.  
 https://github.com/peetujuuti/ds/tree/master/seattle%20airbnb%20data  
