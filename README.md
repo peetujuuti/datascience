@@ -17,12 +17,15 @@ https://github.com/peetujuuti/ds/blob/master/melbourne-housing-market-eda/Melbou
 Trying to predict avocado prices using linear regression.  
 https://github.com/peetujuuti/ds/blob/master/avocado_price_regression_analysis/avocado%20prices%20regression.ipynb  
 
-## COVID19 cases World and US map
+## Jimms.fi web scrape
 
-Animated map showing total COVID19 cases worldwide and Mapbox map showing total COVID19 cases in US States.  
-https://github.com/peetujuuti/ds/tree/master/covid-19_cases_world_map_animated  
+Scraping computer component data from Jimms.fi and doing some exploratory data analysis on it.  
+https://github.com/peetujuuti/ds/tree/master/jimms_web_scrape  
 
 ## Other
+
+Animated map showing total COVID19 cases worldwide and Mapbox map showing total COVID19 cases in US States (data is old).  
+https://github.com/peetujuuti/ds/tree/master/covid-19_cases_world_map_animated  
 
 Exploring Seoul Air Pollution data. Uploaded on GitHub because the free version of Power BI doesn't allow sharing reports.  
 https://github.com/peetujuuti/ds/tree/master/seoul_air_pollution_power_bi  
