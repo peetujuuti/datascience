@@ -7,15 +7,15 @@ This page contains some personal data science related projects and other practic
 Training a convolutional neural network using Keras to classify landscape images.  
 https://github.com/peetujuuti/ds/blob/master/intel%20image%20classification.ipynb  
 
-## Melboune Housing Market EDA
-
-Exploratory Data Analysis on Melbourne Housing Market data.  
-https://github.com/peetujuuti/ds/blob/master/melbourne-housing-market-eda/Melboune%20Housing%20Market%20EDA.ipynb  
-
 ## Avocado price regression 
 
 Trying to predict avocado prices using linear regression.  
 https://github.com/peetujuuti/ds/blob/master/avocado_price_regression_analysis/avocado%20prices%20regression.ipynb  
+
+## Melboune Housing Market EDA
+
+Exploratory Data Analysis on Melbourne Housing Market data.  
+https://github.com/peetujuuti/ds/blob/master/melbourne-housing-market-eda/Melboune%20Housing%20Market%20EDA.ipynb  
 
 ## Jimms.fi web scrape
 
