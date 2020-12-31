@@ -5,7 +5,7 @@ This page contains some personal data science related projects and other practic
 ## Intel image classification
 
 Training a convolutional neural network using Keras to classify landscape images.  
-https://github.com/peetujuuti/ds/blob/master/intel%20image%20classification.ipynb  
+https://github.com/peetujuuti/ds/blob/master/intel-image-classification.ipynb  
 
 ## Avocado price regression 
 
