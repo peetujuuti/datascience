@@ -23,6 +23,5 @@ Scraping computer component data from Jimms.fi and doing some exploratory data a
 https://github.com/peetujuuti/ds/tree/master/jimms_web_scrape  
 
 ## Melboune Housing Market EDA
-
-Exploratory Data Analysis on Melbourne Housing Market data. The dataset includes Suburb, Address, Rooms, Type, Price, Method of Selling, Real Estate Agent, Date of Sale, Postcode, General Region, Property count, Distance from C.B.D. and council area. 
+Exploring Melbourne Housing Market data. The data was originally scraped from publicly available results posted every week from Domain.com.au and was later uploaded to Kaggle.
 https://github.com/peetujuuti/ds/blob/master/melbourne-housing-market-eda/Melboune%20Housing%20Market%20EDA.ipynb  
