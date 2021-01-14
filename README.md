@@ -9,7 +9,7 @@ https://github.com/peetujuuti/ds/blob/master/intel-image-classification.ipynb
 
 ## Iowa House Price Prediction
 
-Using advanced regression techniques to predict house prices. The dataset uses residential home data from Ames, Iowa and was compiled by Dean De Cock for use in data science education. 
+Using advanced regression techniques to predict house prices. The dataset contains residential home data from Ames, Iowa and was compiled by Dean De Cock for use in data science education. 
 https://github.com/peetujuuti/ds/blob/master/House%20Prices%20-%20Advanced%20Regression%20Techniques/House_Prices.ipynb  
 
 ## Avocado price regression 
