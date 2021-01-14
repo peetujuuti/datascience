@@ -19,9 +19,9 @@ https://github.com/peetujuuti/ds/blob/master/avocado_price_regression_analysis/a
 
 ## Jimms.fi web scrape
 
-Scraping computer component data from Jimms.fi and doing some exploratory data analysis on it. The dataset includes all essential computer components for a pc build listed on the jimms.fi website.
+Scraping computer component data from Jimms.fi and doing some exploratory data analysis on it. The dataset includes all essential computer components for a pc build listed on the jimms.fi website.  
 https://github.com/peetujuuti/ds/tree/master/jimms_web_scrape  
 
 ## Melboune Housing Market EDA
-Exploring Melbourne Housing Market data. The data was originally scraped from publicly available results posted every week from Domain.com.au and was later uploaded to Kaggle.
+Exploring Melbourne, Australia housing clearance data from January 2016. The data was originally scraped from publicly available results posted every week from Domain.com.au and was later uploaded on Kaggle.  
 https://github.com/peetujuuti/ds/blob/master/melbourne-housing-market-eda/Melboune%20Housing%20Market%20EDA.ipynb  
